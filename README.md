@@ -1,5 +1,5 @@
  👋 Hi Here !\
- 🤔 I`m Eurekay .\
+ 🤔 I am Eurekay .\
  😉 Welcome !
 <!---
 eurekaylj/eurekaylj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
